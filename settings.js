@@ -21,8 +21,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['918348225320'] //ur owner number
-global.ownernomer = "918348225320" //ur owner number2
+global.owner = ['923430436852'] //ur owner number
+global.ownernomer = "923430436852" //ur owner number2
 global.ownername = "🦄Dream Guy Deepak" //ur owner name
 global.ytname = "YT: Deepak" //ur yt chanel name
 global.socialm = "GitHub: DGDEEPAK" //ur github or insta name
@@ -30,9 +30,9 @@ global.location = "India, West Bengal, Darjeeling" //ur location
 
 //new
 global.botname = "Zenitsu-Bot"
-global.ownernumber = '918348225320'
+global.ownernumber = '923430436852'
 global.ownername = '🦄Dream Guy Deepak'
-global.ownerNumber = ["918348225320@s.whatsapp.net"]
+global.ownerNumber = ["923430436852@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@dreamguydeepak"
 global.websitex = "https://youtube.com/@dreamguydeepak"
 global.wagc = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1"
@@ -41,7 +41,7 @@ global.wm = "Deepak Bot Inc."
 global.botscript = 'https://github.com/DGDEEPAK/Zenitsu-Bot4' //script link
 global.packname = "Zenitsu-Bot"
 global.author = "🦄Dream Guy Deepak"
-global.creator = "918348225320@s.whatsapp.net"
+global.creator = "923430436852@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
